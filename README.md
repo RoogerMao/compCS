@@ -1,5 +1,5 @@
 # compCS
-Solutions to competitive programming problems
+Solutions (sometimes mine) to competitive programming problems
 
 ## Additional links 
 Links to my profiles on competitive programming websites

@@ -7,7 +7,7 @@
 using namespace std;
 
 array<array<int, 2001>, 2001> timeVisited;
-int x = INT_MAX, t = 0;
+int x = INT_MAX, t = 1;
 int fjx = 1000, fjy = 1000;
 
 void move(char direction, int dist) {
